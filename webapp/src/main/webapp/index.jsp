@@ -5,7 +5,7 @@
     <hr>
      
     <label for="Name"><b>taru su jay</b></label>
-    <input type="text" placeholder="Jor ave che" name="Name" id="Name" required>
+    <input type="text" placeholder="ung aave che" name="Name" id="Name" required>
     <br>
     
     <label for="mobile"><b>Enter mobile</b></label>
