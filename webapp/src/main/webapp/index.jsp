@@ -4,8 +4,8 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="Name"><b>Enter Name Here</b></label>
-    <input type="text" placeholder="CK Patel" name="Name" id="Name" required>
+    <label for="Name"><b>J thay krle</b></label>
+    <input type="text" placeholder="Jor ave che" name="Name" id="Name" required>
     <br>
     
     <label for="mobile"><b>Enter mobile</b></label>
