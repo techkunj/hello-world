@@ -4,7 +4,7 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="Name"><b>J thay krle</b></label>
+    <label for="Name"><b>taru su jay</b></label>
     <input type="text" placeholder="Jor ave che" name="Name" id="Name" required>
     <br>
     
